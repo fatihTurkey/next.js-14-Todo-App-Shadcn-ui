@@ -1,6 +1,4 @@
 import { useTodos } from "@/hooks/use-todos"
-import { Button } from "./ui/button"
-import { Pencil, Trash } from "lucide-react"
 import { TodoItem } from "./todo-item"
 
 export const TodoList = () => {
